@@ -4,7 +4,7 @@
 
 ## A propos
 
-Ce dépôt contient du matériel de soutien pour le cours **HTML5 & CSS3**
+Ce dépôt contient du matériel de soutien pour les cours **SQl** et **MySQL**
 
 ## Contenu
 
@@ -25,7 +25,7 @@ Ce dépôt est organisé comme suit :
 
 ### TP Films
 
-![Films](https://gist.github.com/Olfredos6/8e1214181141ca69d5f5ccb770f6e690)
+![Films](./tp-sample-films.png)
 
 ## Formateur
 
