@@ -12,8 +12,8 @@ Ce dépôt est organisé comme suit :
 
 - Vous pouvez trouver les présentations PDF du cours ci-dessous:
 - Support du Cours
-  - Partie 1: Concepts de base et jointures (./Support%20HTML%205%20&%20CSS%203.pdf)
-  - Partie 2:
+  - [Partie 1: Concepts de base et jointures](./Support%20HTML%205%20&%20CSS%203.pdf)
+  - [Partie 2](./advanced/):
     - [Invite de commande](./advanced/1-invite-de-commande-sql.pdf)
     - [Views](./advanced/2-mysql-views.pdf)
     - [Triggers](./advanced/3-triggers.pdf)
