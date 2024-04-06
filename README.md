@@ -10,7 +10,6 @@ Ce dépôt contient du matériel de soutien pour les cours **SQl** et **MySQL**
 
 Ce dépôt est organisé comme suit :
 
-- Vous pouvez trouver les présentations PDF du cours ci-dessous:
 - Support du Cours
   - [Partie 1: Concepts de base et jointures](./Support%20HTML%205%20&%20CSS%203.pdf)
   - [Partie 2](./advanced/):
@@ -18,7 +17,7 @@ Ce dépôt est organisé comme suit :
     - [Views](./advanced/2-mysql-views.pdf)
     - [Triggers](./advanced/3-triggers.pdf)
     - [Stored Procedures](./advanced/4-procédures-stockées-dans-mysql.pdf)
-- [Les TPs](./exerices/)
+- [Les TPs](./exercices/)
 - [Fiche de Référence MySQL](./advanced/0-fiche-de-reference-mysql.pdf)
 
 ## Exemple projets
